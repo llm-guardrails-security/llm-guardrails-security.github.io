@@ -1,15 +1,22 @@
-# Nerfies
+# Guardrails and Security for LLMs: Safe, Secure, and Controllable Steering of LLM Applications
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This is the repository that contains source code for the [Guardrails and Security for LLMs @ ACL 2025 tutorial website](https://llm-guardrails-security.github.io).
 
-If you find Nerfies useful for your work please cite:
-```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
-}
+[//]: # (If you find Nerfies useful for your work please cite:)
+
+[//]: # (```)
+
+[//]: # (@article{park2021nerfies)
+
+[//]: # (  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},)
+
+[//]: # (  title     = {Nerfies: Deformable Neural Radiance Fields},)
+
+[//]: # (  journal   = {ACL},)
+
+[//]: # (  year      = {2025},)
+
+[//]: # (})
 ```
 
 # Website License
